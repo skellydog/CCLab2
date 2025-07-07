@@ -55,4 +55,10 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/94WPHFo.png" height="80%" width="80%"/>
 <br />
 <br />
+#8. Retrieve the private IP address of the Linux VM and attempt to ping it to the Windows 10 VM: <br/>
+<br />
+<img src="https://i.imgur.com/kNDhnA4.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/1EB3Lio.png" height="80%" width="80%"/>
+<br />
+<br />
 </p></b>
