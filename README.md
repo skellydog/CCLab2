@@ -50,4 +50,9 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/tqUD1KY.png" height="80%" width="80%"/>
 <br />
 <br />
+#7. Filter to IMCP traffic only: <br/>
+<br />
+<img src="https://i.imgur.com/94WPHFo.png" height="80%" width="80%"/>
+<br />
+<br />
 </p></b>
