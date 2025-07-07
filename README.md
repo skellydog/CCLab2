@@ -1,7 +1,7 @@
 <h1>Lab 2: Azure Compute and Networking </h1>
 
 <h2>Description</h2>
-In this lab, we're creating our first remote desktop with Windows & Linux
+In this lab, we're creating our first remote desktop with Windows & Linux in Azure.  We will continue with our previous subscription to achive this lab.
 
 <h2>Languages and Utilities Used</h2>
 
@@ -10,8 +10,8 @@ In this lab, we're creating our first remote desktop with Windows & Linux
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (23H2)
-- <b>Windows 10</b> (23H2)
-- <b>Linux</b> (23H2)
+- <b>Windows 10</b> (22H2)
+- <b>Linux [Ubuntu 22.04]</b> (23H2)
 
 <h2>Program walk-through:</h2>
 
