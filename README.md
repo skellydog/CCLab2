@@ -66,28 +66,57 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/4WTVeT1.png" height="80%" width="80%"/>
 <br />
 <br />
-#10. Once the ping is initiate, Go to Azure and disable incoming pings <br/>
+#10. Once the ping is initiate, Go to Azure and disable incoming pings: <br/>
 <br />
 <img src="https://i.imgur.com/97VQLvo.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/EGopEMR.png" height="80%" width="80%"/>
 <br />
 <br />
-#11. Observe the disabled traffic <br/>
+#11. Observe the disabled traffic: <br/>
 <br />
 <img src="https://i.imgur.com/NBGs2Kn.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/OZjOAqI.png" height="80%" width="80%"/>
 <br />
 <br />
-#12. Once observe, Delete the disable command <br/>
+#12. Once observe, Delete the disable command: <br/>
 <br />
 <img src="https://i.imgur.com/yig2Tl4.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/D7N2jF4.png" height="80%" width="80%"/>
 <br />
 <br />
-#13. Once observe, Delete the disable command <br/>
+#13. Head back to WireShark and filter for SSH only: <br/>
 <br />
-<img src="https://i.imgur.com/yig2Tl4.png" height="80%" width="80%"/>
-<img src="https://i.imgur.com/D7N2jF4.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/wgEyaFU.png" height="80%" width="80%"/>
+<br />
+<br />
+#14. Using PowerShell. and connect to your Linux VM in your Windows 10 VM <br/>
+<br />
+<img src="https://i.imgur.com/dJU6oH0.png" height="80%" width="80%"/>
+<br />
+<br />
+#15. Observe the traffic in WireShark, then close the connection: <br/>
+<br />
+<img src="https://i.imgur.com/UCjRBUe.png" height="80%" width="80%"/>
+<br />
+<br />
+#15. Observe the DHCP traffic in WireShark: <br/>
+<br />
+<img src="https://i.imgur.com/nbZam1N.png" height="80%" width="80%"/>
+<br />
+<br />
+#16. Observe the DNS traffic in WireShark: <br/>
+<br />
+<img src="https://i.imgur.com/aXfBLuL.png" height="80%" width="80%"/>
+<br />
+<br />
+#17. Observe the RPD traffic in WireShark: <br/>
+<br />
+<img src="https://i.imgur.com/ob9Dx77.png" height="80%" width="80%"/>
+<br />
+<br />
+#17. Once everything is completed, Clean up & Delete your VMs: <br/>
+<br />
+<img src="https://i.imgur.com/7z9u1Gq.png" height="80%" width="80%"/>
 <br />
 <br />
 </p></b>
