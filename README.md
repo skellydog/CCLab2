@@ -17,6 +17,7 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 
 <p align="center"><b>
 #1. Create a Resource Group in Azure (VM): <br/>
+
   
 <img src="https://i.imgur.com/2QWGUNK.png" height="80%" width="80%"/>
 <br />
