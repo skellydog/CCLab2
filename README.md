@@ -25,8 +25,6 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <br />
 <img src="https://i.imgur.com/nznZCnN.png" height="80%" width="80%"/>
 <br />
-<img src="https://i.imgur.com/MxHpwsd.png" height="80%" width="80%"/>
-<br />
 <br />
 #3. Create a Linux VM with Ubunutu: <br/>
 <br />
