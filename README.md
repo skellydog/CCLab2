@@ -11,7 +11,7 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 
 - <b>Windows 11</b> (23H2)
 - <b>Windows 10</b> (22H2)
-- <b>Linux [Ubuntu 22.04]</b> (23H2)
+- <b>Linux [Ubuntu]</b> (22.04 x64)
 
 <h2>Program walk-through:</h2>
 
