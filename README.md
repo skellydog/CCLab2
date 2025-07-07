@@ -26,7 +26,7 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/nznZCnN.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/MxHpwsd.png" height="80%" width="80%"/>
 <br />
- <br />
+<br />
 #3. Create a Linux VM with Ubunutu: <br/>
 <br />
 <img src="https://i.imgur.com/CvvYi0H.png" height="80%" width="80%"/>
@@ -37,6 +37,17 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <br />
 <img src="https://i.imgur.com/MdZOptg.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/Nsi8x88.png" height="80%" width="80%"/>
+<br />
+<br />
+#5. Once connected, Download WireShark on your Windows 10 VM: <br/>
+<br />
+<img src="https://i.imgur.com/mz8aggj.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/PfUjZxF.png" height="80%" width="80%"/>
+<br />
+<br />
+#6. Open WireShark and Begin a packet capture: <br/>
+<br />
+<img src="https://i.imgur.com/tqUD1KY.png" height="80%" width="80%"/>
 <br />
 <br />
 </p></b>
