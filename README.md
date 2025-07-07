@@ -61,4 +61,27 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/1EB3Lio.png" height="80%" width="80%"/>
 <br />
 <br />
+#9. Initiate a non-stop ping from your Windows 10 VM to your Linux VM: <br/>
+<br />
+<img src="https://i.imgur.com/4WTVeT1.png" height="80%" width="80%"/>
+<br />
+<br />
+#10. Once the ping is initiate, Go to Azure and disable incoming pings <br/>
+<br />
+<img src="https://i.imgur.com/97VQLvo.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/EGopEMR.png" height="80%" width="80%"/>
+<br />
+<br />
+#11. Observe the disabled traffic <br/>
+<br />
+<img src="https://i.imgur.com/NBGs2Kn.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/OZjOAqI.png" height="80%" width="80%"/>
+<br />
+<br />
+#12. Once observe, Delete the disable command <br/>
+<br />
+<img src="https://i.imgur.com/yig2Tl4.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/D7N2jF4.png" height="80%" width="80%"/>
+<br />
+<br />
 </p></b>
