@@ -84,4 +84,10 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <img src="https://i.imgur.com/D7N2jF4.png" height="80%" width="80%"/>
 <br />
 <br />
+#13. Once observe, Delete the disable command <br/>
+<br />
+<img src="https://i.imgur.com/yig2Tl4.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/D7N2jF4.png" height="80%" width="80%"/>
+<br />
+<br />
 </p></b>
