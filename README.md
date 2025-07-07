@@ -17,8 +17,20 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 
 <p align="center"><b>
 #1. Create a Resource Group in Azure: <br/>
- <br />
+<br />
 <img src="https://i.imgur.com/2QWGUNK.png" height="80%" width="80%"/>
+<br />
+<br />
+#2. Create a Windows 10 VM: <br/>
+<br />
+<img src="https://i.imgur.com/nznZCnN.png" height="80%" width="80%"/>
+<br />
+<img src="https://i.imgur.com/MxHpwsd.png" height="80%" width="80%"/>
+<br />
+<br />
+#3. Create a Linux VM with Ubunutu: <br/>
+<br />
+<img src="https://i.imgur.com/CvvYi0H.png" height="80%" width="80%"/>
 <br />
 <br />
 </p></b>
