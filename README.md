@@ -16,8 +16,8 @@ In this lab, we're creating our first remote desktop with Windows & Linux in Azu
 <h2>Program walk-through:</h2>
 
 <p align="center"><b>
-#1. Create a Virtual Machine (VM): <br/>
-<img src="https://i.imgur.com/N21u1Mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+#1. Create a Resource Group in Azure (VM): <br/>
+<img src="https://i.imgur.com/N21u1Mn.png" height="80%" width="80%"/>
 <br />
 <br />
 </p></b>
